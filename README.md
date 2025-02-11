@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Samah</h1>
-<h3 align="center">Um ignorante digital tentando sobreviver à sua primeira aula de ADS</h3>
+<h3 align="center">Um ignorante digital tentando sobreviver à sua segunda aula de ADS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samah13hhh&label=Profile%20views&color=0e75b6&style=flat" alt="samah13hhh" /> </p>
 
