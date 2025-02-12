@@ -1,8 +1,7 @@
-﻿.theme-blue-grey .navbar {
-  background-color: #607D8B; }
+
 
 ## Boas vindas ao meu Github ##
-![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7WrRW-hwdEB5pnUTlvonwTwK0NaeAOmIljw&s)﻿.
+< align="midle" ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7WrRW-hwdEB5pnUTlvonwTwK0NaeAOmIljw&s)﻿.
 <h3 align="center">Um ignorante digital tentando sobreviver à sua segunda aula de ADS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samah13hhh&label=Profile%20views&color=0e75b6&style=flat" alt="samah13hhh" /> </p>
