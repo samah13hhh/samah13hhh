@@ -2,13 +2,15 @@
 
 # **Boas vindas ao meu Github** #
 
- <p> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7WrRW-hwdEB5pnUTlvonwTwK0NaeAOmIljw&s" height="150" width="140"
-       
-<h3 align="center">Um ignorante digital tentando sobreviver à sua terceira aula de ADS</h3>
+<img  align="center
+ " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7WrRW-hwdEB5pnUTlvonwTwK0NaeAOmIljw&s" height="120" width="120">
+</div>
+ <h3 align="left">Um ignorante digital tentando sobreviver à sua terceira aula de ADS</h3>
 
 <h3 align="left">cursos e habilidades:</h3>
-* Ciências Contabéis(incompleto).
-* Pintura Automotiva
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/4034/4034167.png" alt="android" width="40" height="40"/>Ciências Contabéis(incompleto)
+ 
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/638/638426.png" alt="android" width="40" height="40"/>Pintura Automotiva
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samah13hhh&label=Profile%20views&color=0e75b6&style=flat" alt="samah13hhh" /> </p>
 
