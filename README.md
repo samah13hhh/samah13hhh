@@ -10,7 +10,7 @@
 <h3 align="left">cursos e habilidades:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/4034/4034167.png" alt="android" width="40" height="40"/>Ciências Contabéis(incompleto)
  
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/638/638426.png" alt="android" width="40" height="40"/>Pintura Automotiva
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/638/638426.png" alt="android" width="40" height="40"/<h3 align="middle">Pintura Automotiva</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samah13hhh&label=Profile%20views&color=0e75b6&style=flat" alt="samah13hhh" /> </p>
 
