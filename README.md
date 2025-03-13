@@ -5,7 +5,7 @@
 <img  align="center
  " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7WrRW-hwdEB5pnUTlvonwTwK0NaeAOmIljw&s" height="120" width="120">
 </div>
- <h3 align="left">Um ignorante digital tentando sobreviver à sua quarta aula de ADS</h3>
+ <h3 align="left">Um ignorante digital tentando sobreviver ao curso de ADS</h3>
 
 <h3 align="left">cursos e habilidades:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/4034/4034167.png" alt="android" width="40" height="40"/>Ciências Contabéis(incompleto)
